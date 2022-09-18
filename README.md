@@ -1,2 +1,2 @@
-# editor-de-texto
-Editor de texto feito em C#
+# Editor de Texto
+Projeto feito em C# para praticar criação e manipulação de arquivos.
